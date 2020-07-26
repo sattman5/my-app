@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RECIPE-EPIC/static/css/main.0dc0ebb3.chunk.css",
+    "main.js": "/RECIPE-EPIC/static/js/main.51636f72.chunk.js",
+    "main.js.map": "/RECIPE-EPIC/static/js/main.51636f72.chunk.js.map",
+    "runtime-main.js": "/RECIPE-EPIC/static/js/runtime-main.d32d8e1b.js",
+    "runtime-main.js.map": "/RECIPE-EPIC/static/js/runtime-main.d32d8e1b.js.map",
+    "static/js/2.16cdcfba.chunk.js": "/RECIPE-EPIC/static/js/2.16cdcfba.chunk.js",
+    "static/js/2.16cdcfba.chunk.js.map": "/RECIPE-EPIC/static/js/2.16cdcfba.chunk.js.map",
+    "index.html": "/RECIPE-EPIC/index.html",
+    "precache-manifest.1c741ab9169d8682ac0f204b2455e7c5.js": "/RECIPE-EPIC/precache-manifest.1c741ab9169d8682ac0f204b2455e7c5.js",
+    "service-worker.js": "/RECIPE-EPIC/service-worker.js",
+    "static/css/main.0dc0ebb3.chunk.css.map": "/RECIPE-EPIC/static/css/main.0dc0ebb3.chunk.css.map",
+    "static/js/2.16cdcfba.chunk.js.LICENSE.txt": "/RECIPE-EPIC/static/js/2.16cdcfba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d32d8e1b.js",
+    "static/js/2.16cdcfba.chunk.js",
+    "static/css/main.0dc0ebb3.chunk.css",
+    "static/js/main.51636f72.chunk.js"
+  ]
+}
